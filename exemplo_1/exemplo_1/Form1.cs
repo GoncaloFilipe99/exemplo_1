@@ -21,5 +21,15 @@ namespace exemplo_1
         {
             MessageBox.Show("Ola");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Como estás?");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Adeus");
+        }
     }
 }
